@@ -17,12 +17,12 @@ Android手機是一種低功耗的運算設備，但是它具備了一個完整�
 
     [連結在此](https://play.google.com/store/apps/details?id=com.termux)  
 
-    ![圖片01](pictures/附錄C_01.jpg)  
+    ><img src="pictures/附錄C_01.jpg" alt="圖片01" width="390"/>  
 
 
 2. 安裝好後打開，你會看到這樣的畫面（請允許通知權限，建議去設定關閉他的省電限制，有些手機關掉螢幕就會中斷應用程式的執行與連網）：  
 
-    ![圖片02](pictures/附錄C_02.jpg)  
+    ><img src="pictures/附錄C_02.jpg" alt="圖片02" width="750"/>  
 
 
 3. 因為是新的終端機程式，他的組件什麼都還沒安裝，所以請你執行以下命令，更新他的資料包（如果中間停下來了，輸入y然後按Enter就好了）：  
