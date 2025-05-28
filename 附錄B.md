@@ -6,7 +6,7 @@
 
 預覽一下打包好的程式:D  
 
-![圖片01](pictures/附錄B_01.jpg)  
+><img src="pictures/附錄B_01.jpg" alt="圖片01" width="420"/>  
 
 ※網路上比較常見的教學是使用PyInstaller做打包的動作，這邊我就不重複教學了，有興趣的可以去查詢`PyInstaller打包`  
 
@@ -25,11 +25,11 @@ Clang以及LLVM是用來將C語言編譯成.exe文件的編譯器
 
 看到這裡，你的Visual Studio應該也已經下載並安裝好了（應該）。請打開Visual Studio Installer，然後按下「修改」  
 
-![圖片02](pictures/附錄B_02.jpg)  
+><img src="pictures/附錄B_02.jpg" alt="圖片02" width="645"/>  
 
 切換到「個別元件」頁籤，在搜尋框中輸入「Clang」，然後把找到的Clang、LLVM都打勾，因為我已經安裝過了，所以右下角不會出現安裝的按鈕。總之選好後按下安裝。  
 
-![圖片03](pictures/附錄B_03.jpg)  
+><img src="pictures/附錄B_03.jpg" alt="圖片03" width="870"/>  
 
 安裝好Clang、LLVM後，你就再也不用打開Visual Studio了！請回到PyCharm開發環境中的PowwrShell輸入以下命令：  
 
@@ -38,6 +38,7 @@ pip install nuitka
 ```
 
 ![圖片04](pictures/附錄B_04.jpg)  
+><img src="pictures/附錄B_04.jpg" alt="圖片04" width="1030"/>  
 
 然後就可以使用這個命令打包你的python程式成.exe執行檔了，請在PyCharm開發環境中的PowwrShell輸入以下命令： 
 
