@@ -6,7 +6,7 @@
 - 完成日期：2025/05/22
 - 更新內容：可以跳出輸入框，多行輸入
 
-><img src="pictures/README_01.jpg" alt="展示圖" width="700" height="400"/>
+><img src="pictures/README_01.jpg" alt="展示圖" width="600" height="350"/>
 
 # **0. 目錄(點擊前往)**
 1. [第一章：簡介](第一章.md)
